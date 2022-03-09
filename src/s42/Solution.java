@@ -1,7 +1,5 @@
 package s42;
-
-import java.util.*;
-
+/* https://leetcode-cn.com/problems/plates-between-candles/ */
 public class Solution {
     public int[] platesBetweenCandles(String s, int[][] queries) {
         int n = s.length();
