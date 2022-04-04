@@ -19,7 +19,7 @@ public class Solution {
 }
 
 // 动态规划版本
-//class Solution {
+//class NumArray {
 //    public String optimalDivision(int[] nums) {
 //        int n = nums.length;
 //        Node[][] dp = new Node[n][n];

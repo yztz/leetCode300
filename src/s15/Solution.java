@@ -18,7 +18,7 @@ class Solution {
 }
 
 
-//public class Solution {
+//public class NumArray {
 //    public int countKDifference(int[] nums, int k) {
 //        int n = nums.length;
 //        int ans = 0;

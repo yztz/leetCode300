@@ -29,7 +29,7 @@ public class Solution {
 //import java.util.ArrayDeque;
 //import java.util.Queue;
 
-//public class Solution {
+//public class NumArray {
 //    int escapeCnt = 0;
 //    int stayCnt = 0;
 //

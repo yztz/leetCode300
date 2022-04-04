@@ -71,7 +71,7 @@ class Solution {
 //import java.util.HashMap;
 //import java.util.Map;
 //
-//public class Solution {
+//public class NumArray {
 //    int n;
 //    Map<Integer, Boolean> lights;
 //    public int[] gridIllumination(int n, int[][] lamps, int[][] queries) {
